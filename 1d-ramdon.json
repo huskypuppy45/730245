@@ -1,5 +1,5 @@
 {
-  "1": [{
+  "C1": [{
       "name": "Heejin",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -7,7 +7,7 @@
       "code": "OSR1_HJ_1M"
     }],
 
-  "2": [{
+  "C2": [{
       "name": "Hyunjin",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -15,7 +15,7 @@
       "code": "OSR1_HY_1M"
     }],
 
-  "3": [{
+  "C3": [{
       "name": "Haseul",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -23,7 +23,7 @@
       "code": "OSR1_HS_1M"
     }],
 
-  "4": [{
+  "C4": [{
       "name": "Yeojin",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -31,7 +31,7 @@
       "code": "OSR1_YJ_1M"
     }],
 
-  "5": [{
+  "C5": [{
       "name": "Vivi",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -39,7 +39,7 @@
       "code": "OSR1_VV_1M"
     }],
 
-  "6": [{
+  "C6": [{
       "name": "Kim Lip",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -47,7 +47,7 @@
       "code": "OSR1_KL_1M"
     }],
 
-  "7": [{
+  "C7": [{
       "name": "Jinsoul",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -55,7 +55,7 @@
       "code": "OSR1_JS_1M"
     }],
 
-  "8": [{
+  "C8": [{
       "name": "Choerry",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -63,7 +63,7 @@
       "code": "OSR1_CY_1M"
     }],
 
-  "9": [{
+  "C9": [{
       "name": "Yves",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -71,7 +71,7 @@
       "code": "OSR1_YV_1M"
     }],
 
-  "10": [{
+  "C10": [{
       "name": "Chuu",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -79,7 +79,7 @@
       "code": "OSR1_CH_1M"
     }],
 
-  "11": [{
+  "C11": [{
       "name": "Gowon",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
@@ -87,7 +87,7 @@
       "code": "OSR1_GW_1M"
     }],
 
-  "12": [{
+  "C12": [{
       "name": "Olivia Hye",
       "theme": "Osen: Star Road",
       "rarity": "🌙",
