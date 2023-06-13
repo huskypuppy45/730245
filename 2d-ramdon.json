@@ -1,5 +1,5 @@
 {
-  "1": [{
+  "C1": [{
       "name": "Heejin",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -7,7 +7,7 @@
       "code": "S1M1_HJ_1M"
     }],
 
-  "2": [{
+  "C2": [{
       "name": "Hyunjin",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -15,7 +15,7 @@
       "code": "S1M1_HY_1M"
     }],
 
-  "3": [{
+  "C3": [{
       "name": "Haseul",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -23,7 +23,7 @@
       "code": "S1M1_HS_1M"
     }],
 
-  "4": [{
+  "C4": [{
       "name": "Yeojin",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -31,7 +31,7 @@
       "code": "S1M1_YJ_1M"
     }],
 
-  "5": [{
+  "C5": [{
       "name": "Vivi",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -39,7 +39,7 @@
       "code": "S1M1_VV_1M"
     }],
 
-  "6": [{
+  "C6": [{
       "name": "Kim Lip",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -47,7 +47,7 @@
       "code": "S1M1_KL_1M"
     }],
 
-  "7": [{
+  "C7": [{
       "name": "Jinsoul",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -55,7 +55,7 @@
       "code": "S1M1_JS_1M"
     }],
 
-  "8": [{
+  "C8": [{
       "name": "Choerry",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -63,7 +63,7 @@
       "code": "S1M1_CY_1M"
     }],
 
-  "9": [{
+  "C9": [{
       "name": "Yves",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -71,7 +71,7 @@
       "code": "S1M1_YV_1M"
     }],
 
-  "10": [{
+  "C10": [{
       "name": "Chuu",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -79,7 +79,7 @@
       "code": "S1M1_CH_1M"
     }],
 
-  "11": [{
+  "C11": [{
       "name": "Gowon",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
@@ -87,7 +87,7 @@
       "code": "S1M1_GW_1M"
     }],
 
-  "12": [{
+  "C12": [{
       "name": "Olivia Hye",
       "theme": "Star1 Magazine",
       "rarity": "🌙🌙",
