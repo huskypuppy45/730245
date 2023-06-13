@@ -1,0 +1,15 @@
+{
+  "DOG": [{
+      "name": "Leroy",
+      "owner": "Leah",
+      "color": "brown",
+      "link": "https://i.imgur.com/Sb5oxI4.png"
+    }],
+  
+  "CAT": [{
+      "name": "Bobby",
+      "owner": "James",
+      "color": "black",
+      "link": "https://i.imgur.com/d0SpbjC.png"
+    }]
+}
